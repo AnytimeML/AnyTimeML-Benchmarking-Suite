@@ -19,8 +19,9 @@ It supports training, evaluating, and visualizing the performance of models, wit
 
 ---
 ## Contributors
-Thomas Donnellan, https://github.com/tcdonni76
-Tomasz Szydlo, https://github.com/tszydlo
+
+- Thomas Donnellan, https://github.com/tcdonni76
+- Tomasz Szydlo, https://github.com/tszydlo
 ---
 
 
