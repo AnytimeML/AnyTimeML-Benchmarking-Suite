@@ -18,6 +18,11 @@ It supports training, evaluating, and visualizing the performance of models, wit
 - **Support for Binary Classification**: Includes preprocessing for datasets like CIFAR-10 to create binary classification tasks.
 
 ---
+## Contributors
+Thomas Donnellan, https://github.com/tcdonni76
+Tomasz Szydlo, https://github.com/tszydlo
+---
+
 
 ## Table of Contents
 
