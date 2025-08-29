@@ -1,6 +1,6 @@
 # AnytimeML Suite
 
-The **AnytimeML Suite** is a benchmarking and evaluation framework for machine learning (ML) models designed to be deployed on self-powered IoT devices in resource-constrained environments.
+The **AnytimeML Suite** is a benchmarking and evaluation framework for _Anytime Machine Learning_ (AnytimeML) models designed to be deployed on self-powered IoT devices in resource-constrained environments.
 
 It supports training, evaluating, and visualizing the performance of models, with features such as confusion matrices and various metrics plotted over time.
 
